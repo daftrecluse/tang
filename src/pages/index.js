@@ -5,7 +5,7 @@ const IndexPage = () => (
   <div>
     <h1>Tang UI Design System</h1>
     <p>The design system, guidelines and pattern library at Acko.</p>
-    <Link to="/page-2/">Go to page 2</Link>
+    <Link to="/page-2/">Fake Link lol</Link>
   </div>
 )
 
